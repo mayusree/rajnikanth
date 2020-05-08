@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-07T23:26:45 EDT" name="Default suite" finished-at="2020-05-07T23:26:53 EDT" duration-ms="7695">
+    <groups>
+    </groups>
+    <test started-at="2020-05-07T23:26:45 EDT" name="Default test" finished-at="2020-05-07T23:26:53 EDT" duration-ms="7695">
+      <class name="goibibo.GoibiboTest">
+        <test-method signature="partialTextSelect()[pri:0, instance:goibibo.GoibiboTest@4445629]" started-at="2020-05-07T23:26:45 EDT" name="partialTextSelect" finished-at="2020-05-07T23:26:53 EDT" duration-ms="7660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- partialTextSelect -->
+      </class> <!-- goibibo.GoibiboTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
